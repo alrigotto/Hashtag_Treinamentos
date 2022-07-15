@@ -1,7 +1,6 @@
-# To-do List com Flask
-## Introdução e Tutorial ao Flask Python
-### Fonte: [**Harve Escola de Inovação**](https://harve.com.br)
-#### [Link para o Tutorial](https://harve.com.br/blog/programacao-python-blog/introducao-e-tutorial-ao-flask-python/) 
+# Tutorial Básico de Flask
+## Como Criar e Publicar um Site em Python com Flask
+### Fonte: [**Canal do Yotube: Hashtag Programação**](https://harve.com.br)
+#### [Link para o Tutorial](https://www.youtube.com/watch?v=K2ejI4z8Mbg&t) 
 #
-##### Este tutorial cria um site para fazer uma Lista de tarefa (_to-do List_)
-
+##### Este tutorial cria um site básico parta introdução ao Flask
